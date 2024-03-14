@@ -42,4 +42,4 @@ La base de datos utilizada contendrá tablas para almacenar información sobre a
 Con esta práctica se busca aplicar los conocimientos teóricos de Hibernate y JPA en un proyecto práctico, gestionando de manera efectiva la persistencia de datos y las relaciones entre entidades en una base de datos relacional.
 
 ## Documentación JavaDoc
-La documentación Javadoc para este proyecto está disponible [aquí](https://rababbm.github.io/Hibernate_Cine/doc/index.html)
+La documentación Javadoc para este proyecto está disponible [aquí](https://rababbm.github.io/Hibernate_Cine/)
