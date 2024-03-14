@@ -51,11 +51,7 @@ public class PeliculaController {
         System.out.println("-¡Informacion borrada!-");
     }
 
-    /**
-     * Crea una nueva película en la base de datos.
-     *
-     * @param pelicula La película que se va a crear.
-     */
+
     public void crearTablaPelicula() {
         EntityManager entityManager = entityManagerFactory.createEntityManager();
         EntityTransaction transaction = entityManager.getTransaction();
