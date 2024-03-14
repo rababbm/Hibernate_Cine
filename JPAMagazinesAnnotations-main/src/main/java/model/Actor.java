@@ -80,7 +80,7 @@ public class Actor {
     }
     /**
      * Obtiene la lista de películas en las que el actor ha participado.
-     * @return La lista de películas en las que el actor ha participado.
+     * @return La lista de películas en las que el actor ha participado
      */
     public List<Pelicula> getPeliculas() {
         return peliculas;
